@@ -21,7 +21,7 @@ npm install summernote-code-cleaner
 
 ```html
 <script type="text/javascript" src="bower_components/summernote/dist/summernote.min.js" />
-<script type="text/javascript" src="bower_components/pixofuns/summernote-code-cleaner.min.js" />
+<script type="text/javascript" src="bower_components/summernote-code-cleaner/summernote-code-cleaner.min.js" />
 ```
 
 #### 3. Sample summernote config
