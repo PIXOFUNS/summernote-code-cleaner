@@ -1,0 +1,25 @@
+{
+    "name": "summernote-code-cleaner",
+    "version": "0.1.0",
+    "description": "This is a plugin for Summernote (www.summernote.org) WYSIWYG editor to clean up the code before paste from clipboard.",
+    "main": [
+        "./summernote-code-cleaner.js"
+    ],
+    "keywords": [
+        "summernote"
+    ],
+    "authors": [
+        "Jason Suen"
+    ],
+    "license": "MIT",
+    "ignore": [
+        "**/.*",
+        "node_modules",
+        "bower_components"
+    ],
+    "repository": {
+        "type": "git",
+        "url": "git://github.com/PIXOFUNS/summernote-code-cleaner.git"
+    },
+    "homepage": "https://github.com/PIXOFUNS/summernote-code-cleaner"
+}
